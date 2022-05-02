@@ -1,4 +1,4 @@
-# QCOM_SDM850_drivers_with_MAIBENBEN_X228
+# QCOM_SDM850_drivers_from_MAIBENBEN_X228
 <br/>骁龙850 woa Windows 10 on arm驱动<br/>
 Windows 10 on arm(AArch64) SDM850 drivers, extracted from MAIBENBEN Xiaomai X228<br/>
 <br/>
